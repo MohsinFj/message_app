@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327763600155",
+    "project_id": "message-app-eead4",
+    "storage_bucket": "message-app-eead4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327763600155:android:f73574add1d61f080829be",
+        "android_client_info": {
+          "package_name": "com.example.message_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC78diwvKHiNWrhu3mB197ebidGsQF-6rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
